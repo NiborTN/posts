@@ -19,7 +19,7 @@ class MainMenu extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            const Text('Would you like to see Posts or Comments'),
+            const Text('Would you like to see Posts or Albums'),
             const SizedBox(
               height: 30,
             ),
